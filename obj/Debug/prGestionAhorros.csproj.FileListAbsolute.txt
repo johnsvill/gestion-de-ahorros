@@ -1,0 +1,10 @@
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\bin\Debug\prGestionAhorros.exe.config
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\bin\Debug\prGestionAhorros.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\bin\Debug\prGestionAhorros.pdb
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\obj\Debug\prGestionAhorros.csprojAssemblyReference.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\obj\Debug\prGestionAhorros.Form1.resources
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\obj\Debug\prGestionAhorros.Properties.Resources.resources
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\obj\Debug\prGestionAhorros.csproj.GenerateResource.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\obj\Debug\prGestionAhorros.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\obj\Debug\prGestionAhorros.exe
+C:\Users\Jonathan Villeda\Desktop\FullStack.Net\BackEnd\Tutoriales\prGestionAhorros\prGestionAhorros\obj\Debug\prGestionAhorros.pdb
